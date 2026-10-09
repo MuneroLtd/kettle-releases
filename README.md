@@ -15,7 +15,7 @@ This repository holds Kettle's signed, notarised downloads. The source is privat
 **With Homebrew** (recommended — `brew upgrade` keeps it current):
 
 ```sh
-brew install --cask munero/tap/kettle
+brew install --cask muneroltd/tap/kettle
 ```
 
 **Or download it:** open the [latest release](https://github.com/MuneroLtd/kettle-releases/releases/latest),
