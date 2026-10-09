@@ -54,3 +54,5 @@ quit Kettle, drag it to the Bin, and delete `~/Library/Application Support/Kettl
 ## Problems
 
 Check which version you have in **Settings → General → About**, and include it when you report an issue.
+
+**Kettle is running but there is no menu bar icon.** On a MacBook with a notch, macOS hides menu bar items that do not fit beside it. Quit Kettle and open it again, or quit another menu bar app to make room. On macOS 26, also check that Kettle is on under **System Settings → Menu Bar → Allow in the Menu Bar**.
